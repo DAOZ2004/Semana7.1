@@ -35,7 +35,7 @@
   }
 
   button{
-    background-color: purple;
+    background-color: rgb(0, 15, 128);
     border-radius: 8px;
     cursor: pointer;
     padding: 10px 20px;
