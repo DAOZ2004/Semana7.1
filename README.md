@@ -5,7 +5,10 @@
 </td>
 
 <td align="right">
-<img src="https://raw.githubusercontent.com/davidbonilla1626-bot/proyecto-progra/main/restaurante1-app/public/images/quickbite1.png" width="100">
+<img src="https://raw.githubusercontent.com/davidbonilla1626-bot/proyecto-progra/main/restaurante1-app/public/images/quickbite1.png" width="180">
 </td>
 </tr>
 </table>
+
+
+# Hola
